@@ -1,0 +1,17 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    align-items: center;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 55%;
+}
+
+.field__input:hover {
+    border-color: #ff3a00;
+}
